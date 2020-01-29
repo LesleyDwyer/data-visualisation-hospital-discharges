@@ -1,4 +1,4 @@
-# data-visualisation-hospital-discharges
+# Data visualisation and preparation of patients discharged from hospitals
 
 This is the coursework for my Data Visualisation module at City, University of London in 2018-19. We were asked to pose research questions, collect data and build visualisations to answer the research questions using Litvis.
 
