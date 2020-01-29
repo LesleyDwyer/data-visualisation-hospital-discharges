@@ -13,5 +13,3 @@ Within the Coursework folder, there are 6 files:
 4) courseworkPG_Data.html - the data file in Html
 5) Data Prep for Data Vis Coursework.ipynb - data preparation in a Jupyter Notebook
 6) Data Prep for Data Vis Coursework.html - data preparation in Html
-
-To download the full set of files, download the msc-data_vis.zip from this folder.
